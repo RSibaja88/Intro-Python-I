@@ -22,3 +22,5 @@ print(x + Y)
 x_string = str(x)
 str=x_string+y
 print(str)
+
+#note
